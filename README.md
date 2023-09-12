@@ -7,3 +7,5 @@ This will be a very simple website to demonstrate the basic HTML I have learnt d
 07/09/23
 The website has now had an index page created which links to various recipe pages. At this point recipes have been added for two different meals: lasagna and fajitas.
 
+12/09/23
+Added an additional recipe for Stir Fry and linked this to the index page.
