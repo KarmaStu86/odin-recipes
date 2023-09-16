@@ -9,3 +9,6 @@ The website has now had an index page created which links to various recipe page
 
 12/09/23
 Added an additional recipe for Stir Fry and linked this to the index page.
+
+16/09/23
+Added a CSS style sheet which changes the colour and background colour of the a, h1 and h2 elements on all pages.
